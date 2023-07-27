@@ -1,9 +1,9 @@
-print("hello world") # comment
-age = 100 # Integer
-name = "John" # String
-is_female = False
-print(type(age))
-print(type(name))
-is_student= True
-print(type(is_student))
-print(type(is_female))
+
+
+students_name_1 = ["Sam", 100, True, "Chamo", "Ishi", "RIshi"]
+
+students_name_1.clear()
+                 
+print(students_name_1)
+
+
