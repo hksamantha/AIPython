@@ -1,9 +1,8 @@
+def my_function(food):
+    for x in food:
+        print(x)
 
 
-students_name_1 = ["Sam", 100, True, "Chamo", "Ishi", "RIshi"]
+fruits = ["apple", "banana", "cherry"]
 
-students_name_1.clear()
-                 
-print(students_name_1)
-
-
+my_function(fruits)
