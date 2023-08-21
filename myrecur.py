@@ -1,7 +1,4 @@
-a = [10, 23, 56, 78]
-b = tuple(a)
-a[3] = 95
-a[1] = 34
-
-print(b)
-print(list(a))
+my_list = ['sam', 'jan', 'yen', 'nir']
+for wrd in my_list:
+    new_list = wrd.split()
+    print(new_list)
