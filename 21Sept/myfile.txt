@@ -1,0 +1,2 @@
+
+Cloud computing has a rich history that extends back to the 1960s, with the initial concepts of time-sharing becoming popularized via Remote Job Entry (RJE). The "data center" model, where users submitted jobs to operators to run on mainframes, was predominantly used during this era. This was a time of exploration and experimentation with ways to make large-scale computing power available to more users through time-sharing, optimizing the infrastructure, platform, and applications, and increasing
